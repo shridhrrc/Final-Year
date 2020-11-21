@@ -1,0 +1,2386 @@
+1600764394018	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekEMT2t"
+
+(firefox-esr:4865): Gtk-WARNING **: 14:16:34.178: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:4865): Gtk-WARNING **: 14:16:34.181: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600764412951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600764412952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600764412952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600764412952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:4865): Gtk-WARNING **: 14:16:56.879: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:4865): Gtk-WARNING **: 14:16:56.879: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:4865): Gtk-WARNING **: 14:16:56.879: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:5288): Gtk-WARNING **: 14:16:59.486: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:5288): Gtk-WARNING **: 14:16:59.492: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:5313): Gtk-WARNING **: 14:17:00.039: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:5313): Gtk-WARNING **: 14:17:00.045: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://90ce696d-60d5-4ec3-b994-bf4982203b0f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:5391): Gtk-WARNING **: 14:17:03.828: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:5391): Gtk-WARNING **: 14:17:03.834: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600764425350	Marionette	INFO	Listening on port 40831
+1600764425412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600767828303	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevfVz6F"
+
+(firefox-esr:17922): Gtk-WARNING **: 15:13:48.396: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:17922): Gtk-WARNING **: 15:13:48.399: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600767830117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600767830117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600767830118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600767830118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:17922): Gtk-WARNING **: 15:13:51.004: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17922): Gtk-WARNING **: 15:13:51.004: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17922): Gtk-WARNING **: 15:13:51.004: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:18030): Gtk-WARNING **: 15:13:51.623: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18030): Gtk-WARNING **: 15:13:51.626: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:18049): Gtk-WARNING **: 15:13:51.949: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18049): Gtk-WARNING **: 15:13:51.955: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://fd5847af-3e5c-4b7f-9ace-c98fb892f74b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:18114): Gtk-WARNING **: 15:13:53.590: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18114): Gtk-WARNING **: 15:13:53.594: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600767833734	Marionette	INFO	Listening on port 33509
+1600767833762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600767855425	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqgn3U"
+
+(firefox-esr:18195): Gtk-WARNING **: 15:14:15.488: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:18195): Gtk-WARNING **: 15:14:15.491: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600767856077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600767856078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600767856078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600767856078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:18195): Gtk-WARNING **: 15:14:16.434: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:18195): Gtk-WARNING **: 15:14:16.434: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:18195): Gtk-WARNING **: 15:14:16.434: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:18330): Gtk-WARNING **: 15:14:17.454: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18330): Gtk-WARNING **: 15:14:17.457: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:18349): Gtk-WARNING **: 15:14:17.861: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18349): Gtk-WARNING **: 15:14:17.879: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://1fcdbd2d-27b0-4ad5-93e5-b3cb61a76f67/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600767859273	Marionette	INFO	Listening on port 41491
+1600767859338	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:18415): Gtk-WARNING **: 15:14:19.503: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18415): Gtk-WARNING **: 15:14:19.509: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600767878993	Marionette	INFO	Stopped listening on port 41491
+[Parent 17922, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17922, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600767880518	Marionette	INFO	Stopped listening on port 33509
+[Parent 4865, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4865, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600781314809	Marionette	INFO	Stopped listening on port 40831
+1600846085175	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefVl9o6"
+
+(firefox-esr:10282): Gtk-WARNING **: 12:58:05.294: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:10282): Gtk-WARNING **: 12:58:05.296: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846090455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846090455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846090456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846090456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:10282): Gtk-WARNING **: 12:58:11.404: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:10282): Gtk-WARNING **: 12:58:11.404: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:10282): Gtk-WARNING **: 12:58:11.404: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:10387): Gtk-WARNING **: 12:58:12.633: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10387): Gtk-WARNING **: 12:58:12.636: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:10412): Gtk-WARNING **: 12:58:13.041: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10412): Gtk-WARNING **: 12:58:13.047: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f6989db9-0a44-4a43-8cc5-405f071c8109/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:10471): Gtk-WARNING **: 12:58:15.601: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10471): Gtk-WARNING **: 12:58:15.604: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846095901	Marionette	INFO	Listening on port 40433
+1600846095953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600846192181	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRQYo5N"
+
+(firefox-esr:10687): Gtk-WARNING **: 12:59:52.236: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:10687): Gtk-WARNING **: 12:59:52.239: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846192920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846192921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846192921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846192921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:10687): Gtk-WARNING **: 12:59:53.187: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:10687): Gtk-WARNING **: 12:59:53.187: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:10687): Gtk-WARNING **: 12:59:53.187: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:10742): Gtk-WARNING **: 12:59:53.586: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10742): Gtk-WARNING **: 12:59:53.589: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:10761): Gtk-WARNING **: 12:59:53.857: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10761): Gtk-WARNING **: 12:59:53.863: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d40128ff-6fcf-4b9a-84ac-25c13b20f81b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:10823): Gtk-WARNING **: 12:59:55.237: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10823): Gtk-WARNING **: 12:59:55.242: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846195407	Marionette	INFO	Listening on port 40233
+1600846195492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600846260101	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2W2qcQ"
+
+(firefox-esr:12580): Gtk-WARNING **: 13:01:00.161: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:12580): Gtk-WARNING **: 13:01:00.164: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846260753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846260754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846260754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846260754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:12580): Gtk-WARNING **: 13:01:01.015: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:12580): Gtk-WARNING **: 13:01:01.015: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:12580): Gtk-WARNING **: 13:01:01.015: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:12635): Gtk-WARNING **: 13:01:01.424: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:12635): Gtk-WARNING **: 13:01:01.427: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:12654): Gtk-WARNING **: 13:01:01.656: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:12654): Gtk-WARNING **: 13:01:01.659: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b7880dae-96ce-4a6f-8668-42f581a35059/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:12723): Gtk-WARNING **: 13:01:02.996: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:12723): Gtk-WARNING **: 13:01:02.999: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846263121	Marionette	INFO	Listening on port 42893
+1600846263211	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10387, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1600846323915	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSxZrbL"
+
+(firefox-esr:13030): Gtk-WARNING **: 13:02:03.968: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:13030): Gtk-WARNING **: 13:02:03.971: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846324790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846324791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846324791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846324791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:13030): Gtk-WARNING **: 13:02:05.029: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:13030): Gtk-WARNING **: 13:02:05.029: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:13030): Gtk-WARNING **: 13:02:05.029: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:13084): Gtk-WARNING **: 13:02:05.424: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13084): Gtk-WARNING **: 13:02:05.427: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:13103): Gtk-WARNING **: 13:02:05.656: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13103): Gtk-WARNING **: 13:02:05.659: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://78c839d2-14ad-49a8-8eb5-c4fb3b3d2076/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:13250): Gtk-WARNING **: 13:02:07.158: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13250): Gtk-WARNING **: 13:02:07.161: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846327292	Marionette	INFO	Listening on port 38203
+1600846327328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600846414704	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekLnn9n"
+
+(firefox-esr:13444): Gtk-WARNING **: 13:03:34.759: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:13444): Gtk-WARNING **: 13:03:34.762: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846415639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846415639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846415640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846415640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:13444): Gtk-WARNING **: 13:03:35.913: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:13444): Gtk-WARNING **: 13:03:35.913: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:13444): Gtk-WARNING **: 13:03:35.913: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:13500): Gtk-WARNING **: 13:03:36.327: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13500): Gtk-WARNING **: 13:03:36.330: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:13519): Gtk-WARNING **: 13:03:36.544: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13519): Gtk-WARNING **: 13:03:36.547: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7d9beaca-3fb5-4b3b-bae4-997549409a56/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:13583): Gtk-WARNING **: 13:03:37.876: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13583): Gtk-WARNING **: 13:03:37.880: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846418038	Marionette	INFO	Listening on port 35181
+1600846418115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600846444547	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8VSfLE"
+
+(firefox-esr:13663): Gtk-WARNING **: 13:04:04.605: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:13663): Gtk-WARNING **: 13:04:04.607: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846445190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846445191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846445191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846445191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:13663): Gtk-WARNING **: 13:04:05.455: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:13663): Gtk-WARNING **: 13:04:05.456: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:13663): Gtk-WARNING **: 13:04:05.456: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:13720): Gtk-WARNING **: 13:04:05.849: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13720): Gtk-WARNING **: 13:04:05.852: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:13739): Gtk-WARNING **: 13:04:06.079: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13739): Gtk-WARNING **: 13:04:06.082: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e5b2681b-fb6c-4552-a678-8f25ae6b7e8c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:13804): Gtk-WARNING **: 13:04:07.400: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13804): Gtk-WARNING **: 13:04:07.404: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846447521	Marionette	INFO	Listening on port 34181
+1600846447561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600846551317	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5lKxO4"
+
+(firefox-esr:14252): Gtk-WARNING **: 13:05:51.371: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:14252): Gtk-WARNING **: 13:05:51.375: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846552309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846552310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846552310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846552310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:14252): Gtk-WARNING **: 13:05:52.581: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:14252): Gtk-WARNING **: 13:05:52.581: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:14252): Gtk-WARNING **: 13:05:52.582: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:14307): Gtk-WARNING **: 13:05:52.988: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14307): Gtk-WARNING **: 13:05:52.991: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14326): Gtk-WARNING **: 13:05:53.221: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14326): Gtk-WARNING **: 13:05:53.225: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://bbe409bb-ca95-4c14-8b4f-1bf3f7fd8062/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:14387): Gtk-WARNING **: 13:05:54.612: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14387): Gtk-WARNING **: 13:05:54.648: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846554741	Marionette	INFO	Listening on port 43681
+1600846554828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600846720372	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqXNFCf"
+
+(firefox-esr:14780): Gtk-WARNING **: 13:08:40.430: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:14780): Gtk-WARNING **: 13:08:40.433: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846721240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846721240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846721240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846721240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:14780): Gtk-WARNING **: 13:08:41.507: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:14780): Gtk-WARNING **: 13:08:41.507: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:14780): Gtk-WARNING **: 13:08:41.507: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:14840): Gtk-WARNING **: 13:08:41.929: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14840): Gtk-WARNING **: 13:08:41.934: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14859): Gtk-WARNING **: 13:08:42.176: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14859): Gtk-WARNING **: 13:08:42.180: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://cf099057-a0b9-40cf-8a68-bf32ebaa4326/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600846723659	Marionette	INFO	Listening on port 39319
+1600846723703	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:14921): Gtk-WARNING **: 13:08:43.712: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14921): Gtk-WARNING **: 13:08:43.715: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846812397	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2In6Wr"
+
+(firefox-esr:15237): Gtk-WARNING **: 13:10:12.458: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:15237): Gtk-WARNING **: 13:10:12.461: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846813136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600846813137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600846813137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600846813137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:15237): Gtk-WARNING **: 13:10:13.382: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:15237): Gtk-WARNING **: 13:10:13.382: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:15237): Gtk-WARNING **: 13:10:13.382: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:15291): Gtk-WARNING **: 13:10:13.787: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:15291): Gtk-WARNING **: 13:10:13.789: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:15310): Gtk-WARNING **: 13:10:14.021: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:15310): Gtk-WARNING **: 13:10:14.024: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7caaf806-f011-4087-b619-a59e1b96bf8b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:15374): Gtk-WARNING **: 13:10:15.308: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:15374): Gtk-WARNING **: 13:10:15.313: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600846815441	Marionette	INFO	Listening on port 43015
+1600846815519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600847175157	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSwzynn"
+
+(firefox-esr:16089): Gtk-WARNING **: 13:16:15.216: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:16089): Gtk-WARNING **: 13:16:15.219: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847176148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600847176148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600847176148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600847176148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:16089): Gtk-WARNING **: 13:16:16.415: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16089): Gtk-WARNING **: 13:16:16.415: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16089): Gtk-WARNING **: 13:16:16.415: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:16146): Gtk-WARNING **: 13:16:16.817: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16146): Gtk-WARNING **: 13:16:16.820: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:16165): Gtk-WARNING **: 13:16:17.047: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16165): Gtk-WARNING **: 13:16:17.051: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://41bd8086-680f-4530-8bfe-d961e0358bc2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:16226): Gtk-WARNING **: 13:16:18.437: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16226): Gtk-WARNING **: 13:16:18.440: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847178561	Marionette	INFO	Listening on port 45329
+1600847178594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600847233111	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeNopBN"
+
+(firefox-esr:16365): Gtk-WARNING **: 13:17:13.180: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:16365): Gtk-WARNING **: 13:17:13.183: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847233779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600847233779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600847233779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600847233779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:16365): Gtk-WARNING **: 13:17:14.022: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16365): Gtk-WARNING **: 13:17:14.022: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16365): Gtk-WARNING **: 13:17:14.022: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:16419): Gtk-WARNING **: 13:17:14.464: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16419): Gtk-WARNING **: 13:17:14.467: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:16438): Gtk-WARNING **: 13:17:14.697: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16438): Gtk-WARNING **: 13:17:14.703: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://9c55440d-bab6-4289-939f-aa8b8e0fd8ee/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:16578): Gtk-WARNING **: 13:17:16.272: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16578): Gtk-WARNING **: 13:17:16.275: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847236376	Marionette	INFO	Listening on port 44793
+1600847236451	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16089, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600847239264	Marionette	INFO	Stopped listening on port 45329
+1600847241685	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1600847275709	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB7BGH5"
+
+(firefox-esr:16677): Gtk-WARNING **: 13:17:55.778: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:16677): Gtk-WARNING **: 13:17:55.781: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847276468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600847276468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600847276469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600847276469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:16677): Gtk-WARNING **: 13:17:56.717: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16677): Gtk-WARNING **: 13:17:56.717: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16677): Gtk-WARNING **: 13:17:56.717: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:16738): Gtk-WARNING **: 13:17:57.131: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16738): Gtk-WARNING **: 13:17:57.134: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:16757): Gtk-WARNING **: 13:17:57.367: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16757): Gtk-WARNING **: 13:17:57.370: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a56c8326-4f09-4b79-9be7-abb2d8264194/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:16818): Gtk-WARNING **: 13:17:58.739: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16818): Gtk-WARNING **: 13:17:58.742: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847278865	Marionette	INFO	Listening on port 33789
+1600847278929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600847383837	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2TrcJ1"
+
+(firefox-esr:17107): Gtk-WARNING **: 13:19:43.893: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:17107): Gtk-WARNING **: 13:19:43.896: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847384714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600847384715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600847384715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600847384715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:17107): Gtk-WARNING **: 13:19:44.958: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17107): Gtk-WARNING **: 13:19:44.958: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17107): Gtk-WARNING **: 13:19:44.958: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:17165): Gtk-WARNING **: 13:19:45.458: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:17165): Gtk-WARNING **: 13:19:45.462: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:17184): Gtk-WARNING **: 13:19:45.610: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:17184): Gtk-WARNING **: 13:19:45.613: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://60d0f850-08ba-4149-bf34-4577f4cfe0f7/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600847387168	Marionette	INFO	Listening on port 38063
+1600847387251	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:17246): Gtk-WARNING **: 13:19:47.273: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:17246): Gtk-WARNING **: 13:19:47.276: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+[Parent 16677, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16677, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600847462045	Marionette	INFO	Stopped listening on port 33789
+1600847468730	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelaglHJ"
+
+(firefox-esr:17446): Gtk-WARNING **: 13:21:08.800: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:17446): Gtk-WARNING **: 13:21:08.803: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847469508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600847469508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600847469509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600847469509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:17446): Gtk-WARNING **: 13:21:09.773: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17446): Gtk-WARNING **: 13:21:09.773: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17446): Gtk-WARNING **: 13:21:09.773: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:17503): Gtk-WARNING **: 13:21:10.216: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:17503): Gtk-WARNING **: 13:21:10.219: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:17522): Gtk-WARNING **: 13:21:10.462: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:17522): Gtk-WARNING **: 13:21:10.466: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://da150f5d-99d1-41f8-8b71-7ea0837a2fb7/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:17584): Gtk-WARNING **: 13:21:11.869: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:17584): Gtk-WARNING **: 13:21:11.873: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847471979	Marionette	INFO	Listening on port 43891
+1600847472042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600847527712	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7KpIi9"
+
+(firefox-esr:17943): Gtk-WARNING **: 13:22:07.782: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:17943): Gtk-WARNING **: 13:22:07.785: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600847528372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600847528373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600847528373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600847528373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:17943): Gtk-WARNING **: 13:22:08.621: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17943): Gtk-WARNING **: 13:22:08.621: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:17943): Gtk-WARNING **: 13:22:08.621: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:17998): Gtk-WARNING **: 13:22:09.063: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:17998): Gtk-WARNING **: 13:22:09.068: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:18017): Gtk-WARNING **: 13:22:09.360: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18017): Gtk-WARNING **: 13:22:09.363: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c92463a4-2cda-4efc-a37b-3412c8ca318a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600847530913	Marionette	INFO	Listening on port 38019
+1600847530943	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:18084): Gtk-WARNING **: 13:22:10.985: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18084): Gtk-WARNING **: 13:22:10.990: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+[Parent 17943, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17943, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600847547267	Marionette	INFO	Stopped listening on port 38019
+[Parent 17446, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17446, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600847550730	Marionette	INFO	Stopped listening on port 43891
+[Parent 17107, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17107, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600847553823	Marionette	INFO	Stopped listening on port 38063
+[Parent 16365, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16365, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600847554944	Marionette	INFO	Stopped listening on port 44793
+1600849234746	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXWAsW2"
+
+(firefox-esr:22410): Gtk-WARNING **: 13:50:34.804: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:22410): Gtk-WARNING **: 13:50:34.807: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849235520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849235520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849235520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849235520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:22410): Gtk-WARNING **: 13:50:35.788: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:22410): Gtk-WARNING **: 13:50:35.788: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:22410): Gtk-WARNING **: 13:50:35.788: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:22465): Gtk-WARNING **: 13:50:36.188: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22465): Gtk-WARNING **: 13:50:36.191: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22484): Gtk-WARNING **: 13:50:36.424: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22484): Gtk-WARNING **: 13:50:36.427: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://1ce87992-b0f9-40b4-9678-960186820595/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:22546): Gtk-WARNING **: 13:50:37.762: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22546): Gtk-WARNING **: 13:50:37.768: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849237896	Marionette	INFO	Listening on port 39039
+1600849237971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600849334766	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesxrp13"
+
+(firefox-esr:22749): Gtk-WARNING **: 13:52:14.829: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:22749): Gtk-WARNING **: 13:52:14.832: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849335512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849335513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849335513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849335513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:22749): Gtk-WARNING **: 13:52:15.784: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:22749): Gtk-WARNING **: 13:52:15.784: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:22749): Gtk-WARNING **: 13:52:15.784: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:22805): Gtk-WARNING **: 13:52:16.192: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22805): Gtk-WARNING **: 13:52:16.195: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22824): Gtk-WARNING **: 13:52:16.421: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22824): Gtk-WARNING **: 13:52:16.424: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3732c21e-5f9e-45a7-87a4-aa231a45c93c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:22893): Gtk-WARNING **: 13:52:17.765: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22893): Gtk-WARNING **: 13:52:17.768: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849337913	Marionette	INFO	Listening on port 45119
+1600849337987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600849389271	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile45omHO"
+
+(firefox-esr:23082): Gtk-WARNING **: 13:53:09.324: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:23082): Gtk-WARNING **: 13:53:09.327: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849389906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849389906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849389906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849389906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:23082): Gtk-WARNING **: 13:53:10.144: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:23082): Gtk-WARNING **: 13:53:10.144: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:23082): Gtk-WARNING **: 13:53:10.144: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:23137): Gtk-WARNING **: 13:53:10.539: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:23137): Gtk-WARNING **: 13:53:10.542: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:23156): Gtk-WARNING **: 13:53:10.773: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:23156): Gtk-WARNING **: 13:53:10.776: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a6e91608-0c80-4bec-807c-ca437cecbdd7/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:23221): Gtk-WARNING **: 13:53:12.121: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:23221): Gtk-WARNING **: 13:53:12.124: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849392237	Marionette	INFO	Listening on port 42873
+1600849392299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600849456391	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOu6dfQ"
+
+(firefox-esr:23394): Gtk-WARNING **: 13:54:16.447: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:23394): Gtk-WARNING **: 13:54:16.450: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849457495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849457495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849457496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849457496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:23394): Gtk-WARNING **: 13:54:17.731: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:23394): Gtk-WARNING **: 13:54:17.731: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:23394): Gtk-WARNING **: 13:54:17.731: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:23449): Gtk-WARNING **: 13:54:18.132: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:23449): Gtk-WARNING **: 13:54:18.135: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:23468): Gtk-WARNING **: 13:54:18.357: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:23468): Gtk-WARNING **: 13:54:18.360: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://090bbfc8-6435-4581-977f-79506855171c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:23530): Gtk-WARNING **: 13:54:19.709: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:23530): Gtk-WARNING **: 13:54:19.714: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849459868	Marionette	INFO	Listening on port 39169
+1600849459907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600849568956	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6KqGsO"
+
+(firefox-esr:24057): Gtk-WARNING **: 13:56:09.018: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:24057): Gtk-WARNING **: 13:56:09.021: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849569695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849569695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849569695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849569695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:24057): Gtk-WARNING **: 13:56:09.990: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:24057): Gtk-WARNING **: 13:56:09.990: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:24057): Gtk-WARNING **: 13:56:09.991: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:24114): Gtk-WARNING **: 13:56:10.432: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24114): Gtk-WARNING **: 13:56:10.435: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:24133): Gtk-WARNING **: 13:56:10.666: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24133): Gtk-WARNING **: 13:56:10.669: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b184f60f-7652-4a44-9c81-474abc9a1ecb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:24195): Gtk-WARNING **: 13:56:12.063: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24195): Gtk-WARNING **: 13:56:12.067: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849572161	Marionette	INFO	Listening on port 33093
+1600849572184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600849791214	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ7NXDo"
+
+(firefox-esr:24847): Gtk-WARNING **: 13:59:51.287: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:24847): Gtk-WARNING **: 13:59:51.290: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849792225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849792226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849792226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849792226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:24847): Gtk-WARNING **: 13:59:52.473: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:24847): Gtk-WARNING **: 13:59:52.473: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:24847): Gtk-WARNING **: 13:59:52.473: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:24901): Gtk-WARNING **: 13:59:52.866: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24901): Gtk-WARNING **: 13:59:52.869: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:24920): Gtk-WARNING **: 13:59:53.104: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24920): Gtk-WARNING **: 13:59:53.109: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://21018793-43bd-4c9e-984c-a679452ef778/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:24988): Gtk-WARNING **: 13:59:54.518: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24988): Gtk-WARNING **: 13:59:54.521: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849794638	Marionette	INFO	Listening on port 37187
+1600849794725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600849881649	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoyXK1z"
+
+(firefox-esr:25196): Gtk-WARNING **: 14:01:21.726: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:25196): Gtk-WARNING **: 14:01:21.729: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1600849888368	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9AVjkB"
+
+(firefox-esr:25253): Gtk-WARNING **: 14:01:28.429: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:25253): Gtk-WARNING **: 14:01:28.432: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849889006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849889006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849889006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849889007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:25253): Gtk-WARNING **: 14:01:29.271: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:25253): Gtk-WARNING **: 14:01:29.271: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:25253): Gtk-WARNING **: 14:01:29.271: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:25307): Gtk-WARNING **: 14:01:29.667: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:25307): Gtk-WARNING **: 14:01:29.669: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:25326): Gtk-WARNING **: 14:01:29.917: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:25326): Gtk-WARNING **: 14:01:29.923: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://be003833-c4ff-49a9-89ef-055309690338/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:25388): Gtk-WARNING **: 14:01:31.245: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:25388): Gtk-WARNING **: 14:01:31.248: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849891376	Marionette	INFO	Listening on port 37369
+1600849891477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600849926064	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejAQJmU"
+
+(firefox-esr:25604): Gtk-WARNING **: 14:02:06.120: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:25604): Gtk-WARNING **: 14:02:06.123: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849926701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600849926702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600849926702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600849926702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:25604): Gtk-WARNING **: 14:02:06.968: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:25604): Gtk-WARNING **: 14:02:06.968: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:25604): Gtk-WARNING **: 14:02:06.968: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:25661): Gtk-WARNING **: 14:02:07.361: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:25661): Gtk-WARNING **: 14:02:07.364: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:25680): Gtk-WARNING **: 14:02:07.578: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:25680): Gtk-WARNING **: 14:02:07.581: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://52f97672-6e28-40e1-a16e-7af9d2500d7d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:25742): Gtk-WARNING **: 14:02:08.975: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:25742): Gtk-WARNING **: 14:02:08.980: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600849929095	Marionette	INFO	Listening on port 44487
+1600849929174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600850361079	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZrEjOj"
+
+(firefox-esr:27223): Gtk-WARNING **: 14:09:21.133: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:27223): Gtk-WARNING **: 14:09:21.136: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600850362128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600850362128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600850362129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600850362129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:27223): Gtk-WARNING **: 14:09:22.396: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:27223): Gtk-WARNING **: 14:09:22.396: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:27223): Gtk-WARNING **: 14:09:22.396: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:27280): Gtk-WARNING **: 14:09:22.787: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:27280): Gtk-WARNING **: 14:09:22.790: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:27299): Gtk-WARNING **: 14:09:23.008: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:27299): Gtk-WARNING **: 14:09:23.011: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://598b93ea-336f-4bd9-89fc-a23abdd09311/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:27361): Gtk-WARNING **: 14:09:24.372: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:27361): Gtk-WARNING **: 14:09:24.376: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600850364492	Marionette	INFO	Listening on port 36649
+1600850364592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600851027132	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev8vVIz"
+
+(firefox-esr:31427): Gtk-WARNING **: 14:20:27.269: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:31427): Gtk-WARNING **: 14:20:27.274: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851029729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600851029730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600851029730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600851029730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:31427): Gtk-WARNING **: 14:20:30.700: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:31427): Gtk-WARNING **: 14:20:30.701: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:31427): Gtk-WARNING **: 14:20:30.701: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:31481): Gtk-WARNING **: 14:20:31.311: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:31481): Gtk-WARNING **: 14:20:31.314: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:31500): Gtk-WARNING **: 14:20:31.625: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:31500): Gtk-WARNING **: 14:20:31.628: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b28aaacc-2be2-4ca2-a433-15e2c11cc26a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:31567): Gtk-WARNING **: 14:20:34.338: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:31567): Gtk-WARNING **: 14:20:34.383: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851034589	Marionette	INFO	Listening on port 44077
+1600851034660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600851170096	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVWVVVa"
+
+(firefox-esr:31878): Gtk-WARNING **: 14:22:50.160: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:31878): Gtk-WARNING **: 14:22:50.163: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851171155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600851171155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600851171156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600851171156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:31878): Gtk-WARNING **: 14:22:51.449: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:31878): Gtk-WARNING **: 14:22:51.449: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:31878): Gtk-WARNING **: 14:22:51.450: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:32014): Gtk-WARNING **: 14:22:51.918: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32014): Gtk-WARNING **: 14:22:51.921: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:32033): Gtk-WARNING **: 14:22:52.136: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32033): Gtk-WARNING **: 14:22:52.139: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e9518f0b-e34b-44e7-9d8d-2cb711483908/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:32096): Gtk-WARNING **: 14:22:53.545: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32096): Gtk-WARNING **: 14:22:53.551: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851173706	Marionette	INFO	Listening on port 35045
+1600851173817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600851261267	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTrTRpl"
+
+(firefox-esr:32317): Gtk-WARNING **: 14:24:21.322: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:32317): Gtk-WARNING **: 14:24:21.324: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851262315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600851262315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600851262316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600851262316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:32317): Gtk-WARNING **: 14:24:22.579: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:32317): Gtk-WARNING **: 14:24:22.579: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:32317): Gtk-WARNING **: 14:24:22.579: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:32372): Gtk-WARNING **: 14:24:23.021: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32372): Gtk-WARNING **: 14:24:23.024: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:32391): Gtk-WARNING **: 14:24:23.252: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32391): Gtk-WARNING **: 14:24:23.256: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4f5bce7e-2137-45a2-ab9c-b5d49e3c966b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:32455): Gtk-WARNING **: 14:24:24.637: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32455): Gtk-WARNING **: 14:24:24.640: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851264792	Marionette	INFO	Listening on port 35631
+1600851264880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600851307384	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYJ4zxo"
+
+(firefox-esr:32648): Gtk-WARNING **: 14:25:07.439: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:32648): Gtk-WARNING **: 14:25:07.442: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851308022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600851308023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600851308023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600851308023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:32648): Gtk-WARNING **: 14:25:08.306: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:32648): Gtk-WARNING **: 14:25:08.306: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:32648): Gtk-WARNING **: 14:25:08.306: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:32704): Gtk-WARNING **: 14:25:08.702: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32704): Gtk-WARNING **: 14:25:08.705: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:32723): Gtk-WARNING **: 14:25:08.958: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32723): Gtk-WARNING **: 14:25:08.964: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3f76c15a-8bdd-4aaf-bcc3-ef5474dfc41f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:32787): Gtk-WARNING **: 14:25:10.401: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:32787): Gtk-WARNING **: 14:25:10.406: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851310570	Marionette	INFO	Listening on port 35527
+1600851310594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600851538362	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemb3xT5"
+
+(firefox-esr:33556): Gtk-WARNING **: 14:28:58.424: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:33556): Gtk-WARNING **: 14:28:58.428: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851539160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600851539160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600851539161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600851539161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:33556): Gtk-WARNING **: 14:28:59.457: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:33556): Gtk-WARNING **: 14:28:59.457: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:33556): Gtk-WARNING **: 14:28:59.457: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:33612): Gtk-WARNING **: 14:28:59.984: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:33612): Gtk-WARNING **: 14:28:59.987: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:33631): Gtk-WARNING **: 14:29:00.254: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:33631): Gtk-WARNING **: 14:29:00.260: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7beb8592-fe4d-4c3b-9db9-d4e862aba85a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:33705): Gtk-WARNING **: 14:29:02.139: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:33705): Gtk-WARNING **: 14:29:02.146: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851542160	Marionette	INFO	Listening on port 46285
+1600851542182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600851757970	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileagzhHO"
+
+(firefox-esr:34280): Gtk-WARNING **: 14:32:38.044: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:34280): Gtk-WARNING **: 14:32:38.047: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851759035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600851759035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600851759036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600851759036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:34280): Gtk-WARNING **: 14:32:39.403: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:34280): Gtk-WARNING **: 14:32:39.403: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:34280): Gtk-WARNING **: 14:32:39.403: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:34334): Gtk-WARNING **: 14:32:39.852: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:34334): Gtk-WARNING **: 14:32:39.857: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:34353): Gtk-WARNING **: 14:32:40.123: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:34353): Gtk-WARNING **: 14:32:40.126: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://11d652fe-1266-4e5b-b75f-bf0941dd97f4/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:34416): Gtk-WARNING **: 14:32:41.652: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:34416): Gtk-WARNING **: 14:32:41.656: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851761693	Marionette	INFO	Listening on port 35651
+1600851761791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600851793652	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6HDfzG"
+
+(firefox-esr:34582): Gtk-WARNING **: 14:33:13.713: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:34582): Gtk-WARNING **: 14:33:13.716: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851794300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600851794300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600851794300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600851794300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:34582): Gtk-WARNING **: 14:33:14.566: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:34582): Gtk-WARNING **: 14:33:14.566: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:34582): Gtk-WARNING **: 14:33:14.566: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:34636): Gtk-WARNING **: 14:33:14.995: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:34636): Gtk-WARNING **: 14:33:15.001: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:34655): Gtk-WARNING **: 14:33:15.270: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:34655): Gtk-WARNING **: 14:33:15.273: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://82d191fb-16f5-476f-86f5-42441ddd15dc/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:34721): Gtk-WARNING **: 14:33:16.726: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:34721): Gtk-WARNING **: 14:33:16.731: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600851796845	Marionette	INFO	Listening on port 35143
+1600851796866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600852296484	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelnNK6U"
+
+(firefox-esr:36296): Gtk-WARNING **: 14:41:36.550: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:36296): Gtk-WARNING **: 14:41:36.553: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852297503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600852297504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600852297504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600852297504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:36296): Gtk-WARNING **: 14:41:37.774: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:36296): Gtk-WARNING **: 14:41:37.775: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:36296): Gtk-WARNING **: 14:41:37.775: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:36346): Gtk-WARNING **: 14:41:38.234: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:36346): Gtk-WARNING **: 14:41:38.237: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:36365): Gtk-WARNING **: 14:41:38.453: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:36365): Gtk-WARNING **: 14:41:38.456: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ff932dd1-c81b-42b7-b1fa-d3cfeb244ad5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:36432): Gtk-WARNING **: 14:41:39.804: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:36432): Gtk-WARNING **: 14:41:39.807: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852299915	Marionette	INFO	Listening on port 44805
+1600852299995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600852406137	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesGh414"
+
+(firefox-esr:36735): Gtk-WARNING **: 14:43:26.198: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:36735): Gtk-WARNING **: 14:43:26.201: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852407010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600852407010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600852407010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600852407010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:36735): Gtk-WARNING **: 14:43:27.253: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:36735): Gtk-WARNING **: 14:43:27.253: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:36735): Gtk-WARNING **: 14:43:27.254: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:36790): Gtk-WARNING **: 14:43:27.684: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:36790): Gtk-WARNING **: 14:43:27.689: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:36809): Gtk-WARNING **: 14:43:27.961: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:36809): Gtk-WARNING **: 14:43:27.966: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://528cf458-8aed-44d8-9043-712f33cafa26/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:36873): Gtk-WARNING **: 14:43:29.374: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:36873): Gtk-WARNING **: 14:43:29.379: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852409492	Marionette	INFO	Listening on port 41341
+1600852409561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600852452033	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDTpjlB"
+
+(firefox-esr:37035): Gtk-WARNING **: 14:44:12.093: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:37035): Gtk-WARNING **: 14:44:12.096: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852452753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600852452753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600852452753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600852452753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:37035): Gtk-WARNING **: 14:44:13.003: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:37035): Gtk-WARNING **: 14:44:13.003: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:37035): Gtk-WARNING **: 14:44:13.003: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:37085): Gtk-WARNING **: 14:44:13.430: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37085): Gtk-WARNING **: 14:44:13.433: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:37104): Gtk-WARNING **: 14:44:13.662: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37104): Gtk-WARNING **: 14:44:13.665: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://60b13905-0100-4d5e-be15-9a07829a73a8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:37169): Gtk-WARNING **: 14:44:15.083: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37169): Gtk-WARNING **: 14:44:15.086: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852455187	Marionette	INFO	Listening on port 46431
+1600852455243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600852574016	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUNF0p2"
+
+(firefox-esr:37541): Gtk-WARNING **: 14:46:14.080: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:37541): Gtk-WARNING **: 14:46:14.083: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852574987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600852574988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600852574988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600852574988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:37541): Gtk-WARNING **: 14:46:15.250: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:37541): Gtk-WARNING **: 14:46:15.250: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:37541): Gtk-WARNING **: 14:46:15.250: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:37597): Gtk-WARNING **: 14:46:15.667: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37597): Gtk-WARNING **: 14:46:15.670: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:37616): Gtk-WARNING **: 14:46:15.912: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37616): Gtk-WARNING **: 14:46:15.915: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://50c6cf3c-e175-4945-9da8-dd7efbd5515c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:37680): Gtk-WARNING **: 14:46:17.246: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37680): Gtk-WARNING **: 14:46:17.249: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852577365	Marionette	INFO	Listening on port 43767
+1600852577435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600852607018	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9FlxuF"
+
+(firefox-esr:37754): Gtk-WARNING **: 14:46:47.080: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:37754): Gtk-WARNING **: 14:46:47.083: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852607665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600852607665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600852607666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600852607666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:37754): Gtk-WARNING **: 14:46:47.929: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:37754): Gtk-WARNING **: 14:46:47.929: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:37754): Gtk-WARNING **: 14:46:47.929: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:37810): Gtk-WARNING **: 14:46:48.350: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37810): Gtk-WARNING **: 14:46:48.353: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:37829): Gtk-WARNING **: 14:46:48.601: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37829): Gtk-WARNING **: 14:46:48.607: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f1ae792b-e263-4d09-97aa-8500cc215b1d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:37893): Gtk-WARNING **: 14:46:49.937: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:37893): Gtk-WARNING **: 14:46:49.940: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852610062	Marionette	INFO	Listening on port 35221
+1600852610139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600852693245	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBl1qek"
+
+(firefox-esr:38213): Gtk-WARNING **: 14:48:13.303: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:38213): Gtk-WARNING **: 14:48:13.307: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852694368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600852694369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600852694369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600852694369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:38213): Gtk-WARNING **: 14:48:14.630: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:38213): Gtk-WARNING **: 14:48:14.630: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:38213): Gtk-WARNING **: 14:48:14.630: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:38269): Gtk-WARNING **: 14:48:15.031: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:38269): Gtk-WARNING **: 14:48:15.034: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:38288): Gtk-WARNING **: 14:48:15.281: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:38288): Gtk-WARNING **: 14:48:15.284: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://524b0b43-3869-4a69-a31c-52aa7830667e/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:38351): Gtk-WARNING **: 14:48:16.666: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:38351): Gtk-WARNING **: 14:48:16.672: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852696802	Marionette	INFO	Listening on port 41627
+1600852696890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600852735218	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1LGMTa"
+
+(firefox-esr:38428): Gtk-WARNING **: 14:48:55.278: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:38428): Gtk-WARNING **: 14:48:55.281: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852735907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600852735907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600852735907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600852735908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:38428): Gtk-WARNING **: 14:48:56.148: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:38428): Gtk-WARNING **: 14:48:56.148: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:38428): Gtk-WARNING **: 14:48:56.148: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:38482): Gtk-WARNING **: 14:48:56.584: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:38482): Gtk-WARNING **: 14:48:56.587: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:38501): Gtk-WARNING **: 14:48:56.831: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:38501): Gtk-WARNING **: 14:48:56.837: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://aaa14094-cff0-43dd-a113-d84f38de435f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:38563): Gtk-WARNING **: 14:48:58.193: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:38563): Gtk-WARNING **: 14:48:58.197: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600852738303	Marionette	INFO	Listening on port 39095
+1600852738338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600853040414	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXKINR"
+
+(firefox-esr:39592): Gtk-WARNING **: 14:54:00.470: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:39592): Gtk-WARNING **: 14:54:00.473: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853041723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600853041723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600853041724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600853041724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:39592): Gtk-WARNING **: 14:54:01.989: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:39592): Gtk-WARNING **: 14:54:01.989: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:39592): Gtk-WARNING **: 14:54:01.989: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:39655): Gtk-WARNING **: 14:54:02.402: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:39655): Gtk-WARNING **: 14:54:02.407: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:39674): Gtk-WARNING **: 14:54:02.659: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:39674): Gtk-WARNING **: 14:54:02.662: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://97247418-d5cb-4baa-9a6b-94d1272d82b4/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:39738): Gtk-WARNING **: 14:54:04.035: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:39738): Gtk-WARNING **: 14:54:04.039: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853044133	Marionette	INFO	Listening on port 46491
+1600853044226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600853171971	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexkZYAP"
+
+(firefox-esr:40234): Gtk-WARNING **: 14:56:12.040: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:40234): Gtk-WARNING **: 14:56:12.043: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853173199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600853173200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600853173200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600853173200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:40234): Gtk-WARNING **: 14:56:13.464: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:40234): Gtk-WARNING **: 14:56:13.464: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:40234): Gtk-WARNING **: 14:56:13.464: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:40291): Gtk-WARNING **: 14:56:13.946: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:40291): Gtk-WARNING **: 14:56:13.951: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:40310): Gtk-WARNING **: 14:56:14.223: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:40310): Gtk-WARNING **: 14:56:14.229: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://bf12e226-af9c-40bf-a432-b9eadfceef21/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:40375): Gtk-WARNING **: 14:56:15.583: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:40375): Gtk-WARNING **: 14:56:15.587: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853175727	Marionette	INFO	Listening on port 39305
+1600853175795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600853224888	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexnE0V2"
+
+(firefox-esr:40465): Gtk-WARNING **: 14:57:04.943: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:40465): Gtk-WARNING **: 14:57:04.946: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853225527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600853225527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600853225528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600853225528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:40465): Gtk-WARNING **: 14:57:05.792: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:40465): Gtk-WARNING **: 14:57:05.792: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:40465): Gtk-WARNING **: 14:57:05.792: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:40520): Gtk-WARNING **: 14:57:06.203: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:40520): Gtk-WARNING **: 14:57:06.205: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:40539): Gtk-WARNING **: 14:57:06.437: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:40539): Gtk-WARNING **: 14:57:06.440: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e966761a-0c2a-40f6-9b4a-14519dd47137/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:40601): Gtk-WARNING **: 14:57:07.844: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:40601): Gtk-WARNING **: 14:57:07.848: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853227959	Marionette	INFO	Listening on port 35251
+1600853227998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600853405498	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekoae11"
+
+(firefox-esr:41179): Gtk-WARNING **: 15:00:05.582: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:41179): Gtk-WARNING **: 15:00:05.585: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853406299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600853406300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600853406300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600853406300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:41179): Gtk-WARNING **: 15:00:06.566: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:41179): Gtk-WARNING **: 15:00:06.566: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:41179): Gtk-WARNING **: 15:00:06.566: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:41234): Gtk-WARNING **: 15:00:06.969: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:41234): Gtk-WARNING **: 15:00:06.973: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:41253): Gtk-WARNING **: 15:00:07.186: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:41253): Gtk-WARNING **: 15:00:07.189: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c8067d99-bc99-4355-a865-84458680e036/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:41316): Gtk-WARNING **: 15:00:08.643: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:41316): Gtk-WARNING **: 15:00:08.647: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853408729	Marionette	INFO	Listening on port 34257
+1600853408813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600853626418	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3r7avf"
+
+(firefox-esr:41776): Gtk-WARNING **: 15:03:46.481: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:41776): Gtk-WARNING **: 15:03:46.483: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853627434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600853627434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600853627434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600853627434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:41776): Gtk-WARNING **: 15:03:47.771: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:41776): Gtk-WARNING **: 15:03:47.771: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:41776): Gtk-WARNING **: 15:03:47.771: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:41832): Gtk-WARNING **: 15:03:48.207: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:41832): Gtk-WARNING **: 15:03:48.212: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:41851): Gtk-WARNING **: 15:03:48.487: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:41851): Gtk-WARNING **: 15:03:48.493: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0f532476-ce6d-4192-967c-edd2cd886565/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:41913): Gtk-WARNING **: 15:03:49.882: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:41913): Gtk-WARNING **: 15:03:49.885: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853629998	Marionette	INFO	Listening on port 41739
+1600853630038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600853766585	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1xsauf"
+
+(firefox-esr:42260): Gtk-WARNING **: 15:06:06.652: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:42260): Gtk-WARNING **: 15:06:06.655: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853767775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600853767775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600853767775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600853767775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:42260): Gtk-WARNING **: 15:06:08.085: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:42260): Gtk-WARNING **: 15:06:08.085: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:42260): Gtk-WARNING **: 15:06:08.085: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:42316): Gtk-WARNING **: 15:06:08.569: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:42316): Gtk-WARNING **: 15:06:08.574: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:42335): Gtk-WARNING **: 15:06:08.840: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:42335): Gtk-WARNING **: 15:06:08.843: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a0588e87-4a7b-4b24-a9d4-8cc92e889f65/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:42397): Gtk-WARNING **: 15:06:10.192: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:42397): Gtk-WARNING **: 15:06:10.195: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853770314	Marionette	INFO	Listening on port 33285
+1600853770396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600853888330	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen8pAnY"
+
+(firefox-esr:42765): Gtk-WARNING **: 15:08:08.399: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:42765): Gtk-WARNING **: 15:08:08.402: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853889240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600853889240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600853889241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600853889241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:42765): Gtk-WARNING **: 15:08:09.520: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:42765): Gtk-WARNING **: 15:08:09.521: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:42765): Gtk-WARNING **: 15:08:09.521: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:42820): Gtk-WARNING **: 15:08:09.923: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:42820): Gtk-WARNING **: 15:08:09.926: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:42839): Gtk-WARNING **: 15:08:10.159: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:42839): Gtk-WARNING **: 15:08:10.162: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://78c95712-8c87-4536-b393-226075594b41/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:42901): Gtk-WARNING **: 15:08:11.550: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:42901): Gtk-WARNING **: 15:08:11.554: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1600853891659	Marionette	INFO	Listening on port 35143
+1600853891742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601023221363	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH95jw8"
+
+(firefox-esr:76167): Gtk-WARNING **: 14:10:21.563: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:76167): Gtk-WARNING **: 14:10:21.568: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+Fatal Python error: init_import_size: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site.py", line 597, in <module>
+    main()
+  File "/usr/lib/python3.8/site.py", line 584, in main
+    known_paths = addsitepackages(known_paths)
+  File "/usr/lib/python3.8/site.py", line 367, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/usr/lib/python3.8/site.py", line 214, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/usr/lib/python3.8/site.py", line 170, in addpackage
+    for n, line in enumerate(f):
+  File "/usr/lib/python3.8/codecs.py", line 319, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+1601023383383	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3nY54g"
+
+(firefox-esr:76570): Gtk-WARNING **: 14:13:03.444: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:76570): Gtk-WARNING **: 14:13:03.447: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023387166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601023387166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601023387167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601023387167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:76570): Gtk-WARNING **: 14:13:09.521: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:76570): Gtk-WARNING **: 14:13:09.521: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:76570): Gtk-WARNING **: 14:13:09.521: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:76678): Gtk-WARNING **: 14:13:11.110: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:76678): Gtk-WARNING **: 14:13:11.114: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:76699): Gtk-WARNING **: 14:13:11.505: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:76699): Gtk-WARNING **: 14:13:11.510: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://494aee95-8227-4636-bbf0-fef47e0e3e70/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:76761): Gtk-WARNING **: 14:13:14.011: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:76761): Gtk-WARNING **: 14:13:14.016: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023394397	Marionette	INFO	Listening on port 36461
+1601023394419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601023552693	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDS2cRc"
+
+(firefox-esr:77155): Gtk-WARNING **: 14:15:52.758: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:77155): Gtk-WARNING **: 14:15:52.761: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023553741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601023553741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601023553741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601023553741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:77155): Gtk-WARNING **: 14:15:54.019: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:77155): Gtk-WARNING **: 14:15:54.019: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:77155): Gtk-WARNING **: 14:15:54.019: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:77210): Gtk-WARNING **: 14:15:54.427: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:77210): Gtk-WARNING **: 14:15:54.430: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:77229): Gtk-WARNING **: 14:15:54.675: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:77229): Gtk-WARNING **: 14:15:54.680: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8bf342de-4a8e-499a-ba41-47d08009375c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:77289): Gtk-WARNING **: 14:15:56.133: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:77289): Gtk-WARNING **: 14:15:56.136: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023556230	Marionette	INFO	Listening on port 46769
+1601023556304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601023599871	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVnRu4o"
+
+(firefox-esr:77374): Gtk-WARNING **: 14:16:39.935: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:77374): Gtk-WARNING **: 14:16:39.938: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023600621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601023600621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601023600622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601023600622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:77374): Gtk-WARNING **: 14:16:40.876: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:77374): Gtk-WARNING **: 14:16:40.876: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:77374): Gtk-WARNING **: 14:16:40.876: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:77431): Gtk-WARNING **: 14:16:41.309: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:77431): Gtk-WARNING **: 14:16:41.314: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:77450): Gtk-WARNING **: 14:16:41.574: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:77450): Gtk-WARNING **: 14:16:41.577: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f27fb59f-3252-430f-bb84-f895523f1618/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:77514): Gtk-WARNING **: 14:16:43.023: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:77514): Gtk-WARNING **: 14:16:43.029: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023603137	Marionette	INFO	Listening on port 45705
+1601023603193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601023691365	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGanS84"
+
+(firefox-esr:77954): Gtk-WARNING **: 14:18:11.423: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:77954): Gtk-WARNING **: 14:18:11.427: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023692276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601023692276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601023692276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601023692277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:77954): Gtk-WARNING **: 14:18:12.551: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:77954): Gtk-WARNING **: 14:18:12.551: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:77954): Gtk-WARNING **: 14:18:12.551: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:78009): Gtk-WARNING **: 14:18:12.964: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:78009): Gtk-WARNING **: 14:18:12.967: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:78028): Gtk-WARNING **: 14:18:13.235: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:78028): Gtk-WARNING **: 14:18:13.240: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: moz-extension://93371ba8-6ff1-475b-8699-2b2a96cb2bcd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1601023694857	Marionette	INFO	Listening on port 35527
+1601023694914	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:78090): Gtk-WARNING **: 14:18:15.019: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:78090): Gtk-WARNING **: 14:18:15.022: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023714889	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile53W3xk"
+
+(firefox-esr:78169): Gtk-WARNING **: 14:18:34.949: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:78169): Gtk-WARNING **: 14:18:34.952: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023715573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601023715573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601023715573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601023715574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:78169): Gtk-WARNING **: 14:18:35.868: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:78169): Gtk-WARNING **: 14:18:35.868: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:78169): Gtk-WARNING **: 14:18:35.868: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:78225): Gtk-WARNING **: 14:18:36.392: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:78225): Gtk-WARNING **: 14:18:36.396: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:78244): Gtk-WARNING **: 14:18:36.636: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:78244): Gtk-WARNING **: 14:18:36.639: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2d5181a5-d127-48c7-9f2e-10a4c1fd2b51/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:78305): Gtk-WARNING **: 14:18:38.170: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:78305): Gtk-WARNING **: 14:18:38.176: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023718294	Marionette	INFO	Listening on port 36619
+1601023718318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601023977601	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXrqrOP"
+
+(firefox-esr:79162): Gtk-WARNING **: 14:22:57.664: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:79162): Gtk-WARNING **: 14:22:57.666: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023978466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601023978467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601023978467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601023978467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:79162): Gtk-WARNING **: 14:22:58.823: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:79162): Gtk-WARNING **: 14:22:58.824: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:79162): Gtk-WARNING **: 14:22:58.824: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:79217): Gtk-WARNING **: 14:22:59.301: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:79217): Gtk-WARNING **: 14:22:59.304: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:79236): Gtk-WARNING **: 14:22:59.562: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:79236): Gtk-WARNING **: 14:22:59.568: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d6cfa982-de1c-424b-a943-3398d7e19151/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:79301): Gtk-WARNING **: 14:23:00.989: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:79301): Gtk-WARNING **: 14:23:00.992: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601023981086	Marionette	INFO	Listening on port 42351
+1601023981114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601024624957	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoaglwT"
+
+(firefox-esr:81307): Gtk-WARNING **: 14:33:45.018: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:81307): Gtk-WARNING **: 14:33:45.021: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024626988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601024626989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601024626989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601024626989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:81307): Gtk-WARNING **: 14:33:47.307: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:81307): Gtk-WARNING **: 14:33:47.307: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:81307): Gtk-WARNING **: 14:33:47.307: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:81368): Gtk-WARNING **: 14:33:47.732: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:81368): Gtk-WARNING **: 14:33:47.737: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:81387): Gtk-WARNING **: 14:33:47.967: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:81387): Gtk-WARNING **: 14:33:47.970: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d9b94c38-2d90-47d3-8363-815ce969459a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1601024629707	Marionette	INFO	Listening on port 44405
+1601024629780	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:81466): Gtk-WARNING **: 14:33:49.944: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:81466): Gtk-WARNING **: 14:33:49.948: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024704747	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez5O7Sp"
+
+(firefox-esr:81927): Gtk-WARNING **: 14:35:04.807: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:81927): Gtk-WARNING **: 14:35:04.811: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024705593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601024705593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601024705594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601024705594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:81927): Gtk-WARNING **: 14:35:05.880: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:81927): Gtk-WARNING **: 14:35:05.880: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:81927): Gtk-WARNING **: 14:35:05.880: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:81981): Gtk-WARNING **: 14:35:06.297: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:81981): Gtk-WARNING **: 14:35:06.302: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:82000): Gtk-WARNING **: 14:35:06.552: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:82000): Gtk-WARNING **: 14:35:06.556: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://dde0aa68-26f1-478b-b413-be6eb6c8443f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:82064): Gtk-WARNING **: 14:35:08.087: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:82064): Gtk-WARNING **: 14:35:08.090: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024708192	Marionette	INFO	Listening on port 38267
+1601024708258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601024764727	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNNQFBs"
+
+(firefox-esr:82277): Gtk-WARNING **: 14:36:04.786: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:82277): Gtk-WARNING **: 14:36:04.789: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024765406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601024765407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601024765407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601024765407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:82277): Gtk-WARNING **: 14:36:05.652: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:82277): Gtk-WARNING **: 14:36:05.652: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:82277): Gtk-WARNING **: 14:36:05.652: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:82332): Gtk-WARNING **: 14:36:06.064: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:82332): Gtk-WARNING **: 14:36:06.067: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:82351): Gtk-WARNING **: 14:36:06.317: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:82351): Gtk-WARNING **: 14:36:06.323: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://9a1eb520-b961-4b45-a733-b1e026691b15/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:82418): Gtk-WARNING **: 14:36:07.667: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:82418): Gtk-WARNING **: 14:36:07.671: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024767807	Marionette	INFO	Listening on port 37141
+1601024767849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601024888288	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUkASiv"
+
+(firefox-esr:82960): Gtk-WARNING **: 14:38:08.343: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:82960): Gtk-WARNING **: 14:38:08.346: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024889373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601024889373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601024889374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601024889374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:82960): Gtk-WARNING **: 14:38:09.647: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:82960): Gtk-WARNING **: 14:38:09.647: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:82960): Gtk-WARNING **: 14:38:09.647: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:83017): Gtk-WARNING **: 14:38:10.058: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83017): Gtk-WARNING **: 14:38:10.061: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:83036): Gtk-WARNING **: 14:38:10.309: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83036): Gtk-WARNING **: 14:38:10.315: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8ff3029c-0075-478a-bf46-a90b8ded9aea/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:83098): Gtk-WARNING **: 14:38:11.713: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83098): Gtk-WARNING **: 14:38:11.719: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024891892	Marionette	INFO	Listening on port 45531
+1601024891916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601024974734	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezYjrWU"
+
+(firefox-esr:83460): Gtk-WARNING **: 14:39:34.798: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:83460): Gtk-WARNING **: 14:39:34.801: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024975493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601024975494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601024975494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601024975494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:83460): Gtk-WARNING **: 14:39:35.762: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:83460): Gtk-WARNING **: 14:39:35.762: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:83460): Gtk-WARNING **: 14:39:35.763: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:83514): Gtk-WARNING **: 14:39:36.168: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83514): Gtk-WARNING **: 14:39:36.171: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:83533): Gtk-WARNING **: 14:39:36.409: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83533): Gtk-WARNING **: 14:39:36.412: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://cbbd796e-20d4-46f6-b1f1-4779da3c1714/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:83596): Gtk-WARNING **: 14:39:37.861: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83596): Gtk-WARNING **: 14:39:37.865: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601024977980	Marionette	INFO	Listening on port 45565
+1601024978044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601025001488	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1OTs1u"
+
+(firefox-esr:83703): Gtk-WARNING **: 14:40:01.559: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:83703): Gtk-WARNING **: 14:40:01.562: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025002274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601025002274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601025002275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601025002275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:83703): Gtk-WARNING **: 14:40:02.569: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:83703): Gtk-WARNING **: 14:40:02.570: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:83703): Gtk-WARNING **: 14:40:02.570: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:83818): Gtk-WARNING **: 14:40:02.999: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83818): Gtk-WARNING **: 14:40:03.002: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:83837): Gtk-WARNING **: 14:40:03.233: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83837): Gtk-WARNING **: 14:40:03.236: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7cf69b8f-cfbc-47e0-975d-4b491e7deecc/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:83900): Gtk-WARNING **: 14:40:04.768: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:83900): Gtk-WARNING **: 14:40:04.774: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025004881	Marionette	INFO	Listening on port 35725
+1601025004907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601025257490	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexvMo3P"
+
+(firefox-esr:84849): Gtk-WARNING **: 14:44:17.544: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:84849): Gtk-WARNING **: 14:44:17.547: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025258295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601025258295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601025258295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601025258295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:84849): Gtk-WARNING **: 14:44:18.598: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:84849): Gtk-WARNING **: 14:44:18.599: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:84849): Gtk-WARNING **: 14:44:18.599: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:84905): Gtk-WARNING **: 14:44:19.027: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:84905): Gtk-WARNING **: 14:44:19.032: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:84924): Gtk-WARNING **: 14:44:19.323: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:84924): Gtk-WARNING **: 14:44:19.329: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://feaffd48-88ba-45e2-b213-d3185d421d63/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:84990): Gtk-WARNING **: 14:44:20.747: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:84990): Gtk-WARNING **: 14:44:20.750: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025260851	Marionette	INFO	Listening on port 37737
+1601025260904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601025504413	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYngGzZ"
+
+(firefox-esr:85760): Gtk-WARNING **: 14:48:24.467: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:85760): Gtk-WARNING **: 14:48:24.470: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025505142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601025505142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601025505143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601025505143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:85760): Gtk-WARNING **: 14:48:25.396: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:85760): Gtk-WARNING **: 14:48:25.396: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:85760): Gtk-WARNING **: 14:48:25.396: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:85815): Gtk-WARNING **: 14:48:25.807: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:85815): Gtk-WARNING **: 14:48:25.810: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:85834): Gtk-WARNING **: 14:48:26.074: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:85834): Gtk-WARNING **: 14:48:26.079: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2e80a630-fda3-463d-9460-43cfaa490d81/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:85898): Gtk-WARNING **: 14:48:27.466: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:85898): Gtk-WARNING **: 14:48:27.471: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025507599	Marionette	INFO	Listening on port 34269
+1601025507631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601025969493	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR1V49C"
+
+(firefox-esr:87597): Gtk-WARNING **: 14:56:09.550: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:87597): Gtk-WARNING **: 14:56:09.553: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025970626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601025970627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601025970627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601025970628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:87597): Gtk-WARNING **: 14:56:10.894: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:87597): Gtk-WARNING **: 14:56:10.894: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:87597): Gtk-WARNING **: 14:56:10.894: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:87728): Gtk-WARNING **: 14:56:11.352: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:87728): Gtk-WARNING **: 14:56:11.355: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:87747): Gtk-WARNING **: 14:56:11.646: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:87747): Gtk-WARNING **: 14:56:11.649: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://66cb208b-13ef-4e48-80d8-575ef0395992/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:87808): Gtk-WARNING **: 14:56:13.108: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:87808): Gtk-WARNING **: 14:56:13.112: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601025973200	Marionette	INFO	Listening on port 34577
+1601025973260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601027026429	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2bgMXO"
+
+(firefox-esr:90807): Gtk-WARNING **: 15:13:46.512: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:90807): Gtk-WARNING **: 15:13:46.515: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1601027027964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601027027964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601027027964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601027027965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox-esr:90807): Gtk-WARNING **: 15:13:48.497: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:90807): Gtk-WARNING **: 15:13:48.497: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:90807): Gtk-WARNING **: 15:13:48.497: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:90865): Gtk-WARNING **: 15:13:49.232: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:90865): Gtk-WARNING **: 15:13:49.235: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:90884): Gtk-WARNING **: 15:13:49.551: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:90884): Gtk-WARNING **: 15:13:49.555: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f93d868c-b2d2-4ab1-9c45-73eaf27b09ca/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1601027031226	Marionette	INFO	Listening on port 39525
+1601027031258	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:90949): Gtk-WARNING **: 15:13:51.615: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:90949): Gtk-WARNING **: 15:13:51.618: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1605452724182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezNl4O5"
+
+(firefox-esr:9000): Gtk-WARNING **: 20:35:24.259: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:9000): Gtk-WARNING **: 20:35:24.262: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(firefox-esr:9000): Gtk-WARNING **: 20:35:24.986: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:9000): Gtk-WARNING **: 20:35:24.986: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:9000): Gtk-WARNING **: 20:35:24.986: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:9165): Gtk-WARNING **: 20:35:25.670: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:9165): Gtk-WARNING **: 20:35:25.673: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:9184): Gtk-WARNING **: 20:35:25.846: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:9184): Gtk-WARNING **: 20:35:25.849: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:9250): Gtk-WARNING **: 20:35:27.401: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:9250): Gtk-WARNING **: 20:35:27.407: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1605452727631	Marionette	INFO	Listening on port 44259
+1605452727725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605452773752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU7SC1D"
+
+(firefox-esr:9381): Gtk-WARNING **: 20:36:13.812: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:9381): Gtk-WARNING **: 20:36:13.815: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(firefox-esr:9381): Gtk-WARNING **: 20:36:14.387: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:9381): Gtk-WARNING **: 20:36:14.387: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:9381): Gtk-WARNING **: 20:36:14.387: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:9530): Gtk-WARNING **: 20:36:14.977: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:9530): Gtk-WARNING **: 20:36:14.981: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:9549): Gtk-WARNING **: 20:36:15.182: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:9549): Gtk-WARNING **: 20:36:15.188: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:9612): Gtk-WARNING **: 20:36:16.681: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:9612): Gtk-WARNING **: 20:36:16.687: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1605452776893	Marionette	INFO	Listening on port 41147
+1605452776965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605457512153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4PMMuz"
+
+(firefox-esr:16054): Gtk-WARNING **: 21:55:12.231: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(firefox-esr:16054): Gtk-WARNING **: 21:55:12.234: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(firefox-esr:16054): Gtk-WARNING **: 21:55:13.108: Theme directory 24x24@2x/panel of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16054): Gtk-WARNING **: 21:55:13.108: Theme directory 22x22@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(firefox-esr:16054): Gtk-WARNING **: 21:55:13.108: Theme directory 24x24@2x/places of theme Os-Catalina-NIght has no size field
+
+
+(/usr/lib/firefox-esr/firefox-esr:16213): Gtk-WARNING **: 21:55:13.774: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16213): Gtk-WARNING **: 21:55:13.777: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:16232): Gtk-WARNING **: 21:55:14.021: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16232): Gtk-WARNING **: 21:55:14.027: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:16296): Gtk-WARNING **: 21:55:15.710: Theme parsing error: gtk.css:9104:22: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:16296): Gtk-WARNING **: 21:55:15.713: Theme parsing error: gtk.css:10931:0: Expected a valid selector
+1605457516045	Marionette	INFO	Listening on port 45235
+1605457516082	Marionette	WARN	TLS certificate errors will be ignored for this session
